@@ -3,6 +3,8 @@
  *
  *  Created on: Dec 12, 2016
  *      Author: Tiffany Huang
+ *  Functions created: Jul 3, 2017
+ *		Author: Boris Dayma
  */
 
 #include <random>
